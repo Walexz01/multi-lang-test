@@ -1,0 +1,98 @@
+{
+  "HomePage": {
+    "NavLinks" : [
+      {
+        "href": "/about",
+        "title": "About"
+      },
+      {
+        "href": "/my-services",
+        "title": "My Services"
+      },
+      {
+        "href": "/my-work",
+        "title": "My Work"
+      },
+      {
+        "href": "/contact",
+        "title": "Contact"
+      }
+    ],
+   "home_hero" : {
+      "left": {
+        "hero_avatar": "/lifri-avatar.png",
+        "socail_links": [
+          {
+            "href": "https://www.instagram.com/lifri_draws",
+            "icon": "/icons8-instagram-375.png",
+            "alt": "lifri instagram"
+          },
+          {
+            "href": "https://twitter.com/lifri_drawss",
+            "icon": "/icons8-twitter-375.png",
+            "alt": "lifri twitter (X)"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCNSdBhhLxI7CaDvqtophBqw",
+            "icon": "/icons8-youtube-375.png",
+            "alt": "lifri youtube"
+          },
+          {
+            "href": "https://www.tiktok.com/@lifri_draws",
+            "icon": "/icons8-tiktok-375.png",
+            "alt": "lifri TikTok"
+          },
+          {
+            "href": "https://www.linkedin.com/in/lucas-am%C3%A9ndola-39214b201/",
+            "icon": "/icons8-linkedin-375.png",
+            "alt": "lifri linkedin"
+          }
+        ]
+      },
+      "right": {
+        "heading": "Artista y animador 2D",
+        "desc": "¡Artista y animador 2D extraordinario! 🎨✨ Sumérgete en un mundo de infinitas posibilidades. Únase a nuestra vibrante comunidad de visionarios e innovadores. Creemos, cautivemos e inspiremos juntos, transformando ideas en fascinantes obras de arte. ¡Tu viaje hacia la grandeza artística comienza aquí!",
+        "buttons": [
+          {
+            "href": "/",
+            "label": "Trabaja conmigo"
+          },
+          {
+            "href": "/",
+            "label": "Ver mi trabajo"
+          }
+        ]
+      }
+    },
+     "service_section" : [
+      {
+        "href": "/",
+        "image": "/digital-artwork.png",
+        "alt": "Lifri Draw Artwork service",
+        "label": "Obra de arte"
+      },
+      {
+        "href": "/",
+        "image": "/animation.png",
+        "alt": "Lifri Draw Animation service",
+        "label": "Animación"
+      },
+      {
+        "href": "/",
+        "image": "/streamer emotes.png",
+        "alt": "Lifri Draw Streamer Emotes service",
+        "label": "Gestos de serpentina"
+      }
+    ]
+      },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+  },
+  "Navigation": {
+    "home": "Home"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  }
+}
